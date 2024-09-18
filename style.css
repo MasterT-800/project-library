@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: lightgray;
+}
+.book {
+    background: white;
+    padding: 5px;
+    margin: 5px;
+}
+.read-button {
+    background: green;
+    margin: 5px;
+    color: white;
+}
+.delete-button {
+    background: darkred;
+    color: white;
+}
+
+.new-book-button {
+    background: blue;
+    color: white;
+}
+
+form {
+    display: none;
+}
